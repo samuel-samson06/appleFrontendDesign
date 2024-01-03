@@ -1,7 +1,7 @@
 import IphoneAccessories from "./IphoneAccessories"
 import IphoneHeader from "./IphoneHeader"
 import IphoneSpecs from "./IphoneSpecs"
-import IPhoneSeries from "./iPhoneSeries"
+import IPhoneSeries from "./IphoneSeries"
 
 function Iphone() {
   return (
